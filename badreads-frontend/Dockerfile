@@ -1,4 +1,4 @@
-###### Install dependencies only when needed ######
+###### Install dependencies  ######
 FROM node:16-alpine AS builder
 # Make /app as working directory
 WORKDIR /app
